@@ -4,7 +4,7 @@ function Hero() {
     <div className="bg-black text-white text-center py-16">
       <img
         src={ProfilePic}
-        alt="heroimage"
+        alt="profilepic"
         className="mx-auto mb-8 w-48 h-48 rounded-full object-cover transform transition-transform duration-300 hover:scale-105 "
       />
       <h1 className="text-3xl font-bold">
