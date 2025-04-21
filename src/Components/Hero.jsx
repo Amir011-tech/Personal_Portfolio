@@ -1,4 +1,4 @@
-import ProfilePic from "../assets/ProfilePic.png";
+import ProfilePic from "../assets/Profilepic.png";
 function Hero() {
   return (
     <div className="bg-black text-white text-center py-16">
